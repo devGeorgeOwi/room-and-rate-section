@@ -193,7 +193,26 @@ body{
             
             color: #FFFFFF
             }
-    
+        #facili{
+            display: none;
+        }
+        #contact{
+            display: none;
+        }
+        #bookings{
+            display: flex;
+
+            flex-wrap: wrap;
+        }
+        #description .fa{
+            display: none;
+        }
+        .foot3{
+            display: none;
+        }
+        .bookings{
+            margin: 10px 0;
+        }
         .head2{
         width: 100%;
         height: 50px;
